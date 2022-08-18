@@ -9,18 +9,17 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
+        // ignore: prefer_const_constructors
         title: Text("CatalogApp"),
       ),
       body: Center(
+        // ignore: avoid_unnecessary_containers
         child: Container(
-          child: Text("Learn flutter in $days by Abdul Samad"),
+          child: Text("Learn flutter in $days days by Abdul Samad"),
         ),
       ),
-      drawer: Drawer(
-        child: ListTile(
-          leading: Icon(Icons.access_alarm),
-        ),
-      ),
+      // ignore: prefer_const_constructors
+      drawer: Drawer(),
     );
   }
 }
