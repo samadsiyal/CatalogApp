@@ -1,0 +1,60 @@
+{
+    "productas": [
+        {
+            "id": 1,
+            "name": "IPhone 12 Pro",
+            "desc": "Apply IPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-EgD6fmRJwwumRfcdInBE6NAPQwa2h7kNQQ&usqp=CAU"
+        },
+        {
+            "id": 2,
+            "name": "OPPO F1",
+            "desc": "OPPO F1 Series",
+            "price": 900,
+            "color": "#00ac5a",
+            "image": "https://images.priceoye.pk/oppo-f1-pakistan-priceoye.png"
+        },
+        {
+            "id": 3,
+            "name": "Laptop",
+            "desc": "HP Laptop 7th generation",
+            "price": 700,
+            "color": "#00ac5a",
+            "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c07142636.png"
+        },
+        {
+            "id": 4,
+            "name": "Laptop",
+            "desc": "Dell Laptop 7th generation",
+            "price": 200,
+            "color": "#00ac5a",
+            "image": "https://i0.wp.com/www.itinternational.pk/wp-content/uploads/2021/02/notebook-dell-latitude-e5450-i5-5th.jpg?fit=812%2C692&ssl=1"
+        },
+        {
+            "id": 5,
+            "name": "CAR",
+            "desc": "BMV Car 5000cc",
+            "price": 780,
+            "color": "#00ac5a",
+            "image": "https://autotrendcyprus.com/wp-content/uploads/2022/07/post_id_4155_i3xlf.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Cycle",
+            "desc": "Cycle 2-wheels 4 gears",
+            "price": 500,
+            "color": "#00ac5a",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTucHGO1uh5CiQPnvofH3arjWYHzJqu8GRjSw&usqp=CAU"
+        },
+        {
+            "id": 7,
+            "name": "Bike",
+            "desc": "Sport Yammah bike 500cce",
+            "price": 300,
+            "color": "#00ac5a",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBH2MMznC1ir8eZ2gDeL19LBDrLKJ2Oqk8g&usqp=CAU"
+        }
+    ]
+}
